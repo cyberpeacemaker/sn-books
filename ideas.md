@@ -43,3 +43,6 @@ HIPAA (Health Insurance Portability and Accountability Act) and HITECH (Health I
 
 # Reality 
 The IT department relies heavily on the IDS for potential threats and does not actively monitor system metrics or logs.
+
+# 
+An organization can follow all the recommended guidelines when it comes to building a layered defense strategy. Still, all it takes is an inexperienced and unsuspecting user within your corporate environment to click on a link or download and run a malicious attachment which may provide an attacker a foothold into the network. 
